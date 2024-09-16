@@ -1,0 +1,7 @@
+No. 1 adalah c. 9 kuadrat adalah 9 * 9
+Pada soal no. 1, perhatikan bahwa "9 * 9" adalah string, sehingga akan dicetak apa adanya.
+Hanya ada satu baris yang tercetak, karena hanya ada satu std::endl
+
+No. 2 adalah e. semua benar
+Pada soal no. 2, nilai 4242 (bilangan) dan "42" (string) akan sama-sama tercetak sebagai 42, begitu pula ekspresi 40 + 11 / (5 − 1)
+(yang menghasilkan nilai 40 + 11 / 4 = 40 + 2 = 42
